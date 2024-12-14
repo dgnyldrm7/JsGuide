@@ -1,4 +1,6 @@
-import { Clicked } from "./jsLib/package.js";
+import asdsad, { Card } from "./jsLib/card.js";
+
+
 
 /* Hoisting (Kaldırma)
 // Değişken tanımlamaları ve fonksiyon tanımlamaları yukarı taşınır.
@@ -30,10 +32,24 @@ console.log(name); // => true
 
 
 /*//İmport ve Export kavramı ve ufak DOM örneği
+
+*/
+
+
+/*
 const clickedButton = document.getElementById("clicked");
 
-var helperClicked = document.getElementById("helperClicked");
+
 
 clickedButton.addEventListener("click", Clicked);
 */
 
+/*
+var helperClicked = document.getElementById("helperClicked");
+
+window.HimyName = HimyName;
+*/
+
+//create a instance from card.js
+
+//import { MyComponent } from "./jsLib/card.js";
