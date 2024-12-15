@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmet",
+        "surname": "Yilmaz",
+        "email": "ahmet@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Can",
+        "surname": "Yilmaz",
+        "email": "can@gmail.com"
+    },
+    {
+        "connectionString" : {
+            "result" : "this is mysql database"
+        }
+    }
+]
